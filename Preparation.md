@@ -2,6 +2,6 @@
 
 Cloud Computing have 2 types :
 
-* Deployment model
+* Deployment model (Public Cloud, Private
  
 * Service model
