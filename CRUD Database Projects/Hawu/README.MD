@@ -82,9 +82,6 @@ This project is licensed under the MIT License. See the [LICENSE](https://github
 
 This project was developed in collaboration with [kzyavuz](https://github.com/kzyavuz). His contributions and expertise were invaluable in bringing Hawu to life.
 
-## Contact
-
-For any inquiries or feedback, just contact me at rezadysta@gmail.com
 
 -----------------
 
