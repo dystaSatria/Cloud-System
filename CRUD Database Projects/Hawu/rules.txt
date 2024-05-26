@@ -1,0 +1,10 @@
+ {
+  "rules": {
+    "musik": {
+      ".indexOn": ["title"],
+      ".read": true,
+      ".write": true
+    }
+
+  }
+   }
