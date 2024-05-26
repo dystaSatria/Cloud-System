@@ -81,6 +81,6 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 For any inquiries or feedback, just contact me at rezadysta@gmail.com
 
----
+-----------------
 
-Thank you for using Hawu! Enjoy exploring the rich world of classical music.
+
