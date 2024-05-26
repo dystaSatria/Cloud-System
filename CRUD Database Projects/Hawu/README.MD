@@ -11,7 +11,7 @@ Hawu is a classical music bank website that implements CRUD (Create, Read, Updat
 ## Features
 
 - **Create:** Add new classical music records to the database.
-- **Read:** Browse and search through the classical music collection.
+- **Read:** Browse  the classical music collection.
 - **Update:** Edit details of existing music records.
 - **Delete:** Remove music records from the database.
 - **Carousel:** Enjoy a visually appealing carousel showcasing featured classical music pieces.
