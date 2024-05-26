@@ -14,9 +14,8 @@ Hawu is a classical music bank website that implements CRUD (Create, Read, Updat
 ## Technologies Used
 
 - **Frontend:** HTML, CSS, Bootstrap, JavaScript
-- **Backend:** Node.js, Express.js
-- **Database:** MongoDB (cloud-based)
-- **Deployment:** Heroku / AWS / Azure (choose your preferred cloud platform)
+- **Backend:** PHP
+- **Database:** Firebase (cloud-based)
 - **Version Control:** Git
 
 ## Installation
