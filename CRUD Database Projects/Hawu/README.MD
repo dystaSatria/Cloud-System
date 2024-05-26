@@ -80,7 +80,7 @@ This project is licensed under the MIT License. See the [LICENSE](https://github
 
 ## Collaboration
 
-This project was developed in collaboration with [kzyavuz](). Their contributions and expertise were invaluable in bringing Hawu to life.
+This project was developed in collaboration with [kzyavuz](https://github.com/kzyavuz). His contributions and expertise were invaluable in bringing Hawu to life.
 
 ## Contact
 
