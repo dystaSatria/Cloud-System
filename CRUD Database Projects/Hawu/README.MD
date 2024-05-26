@@ -78,6 +78,10 @@ We welcome contributions from the community! To contribute:
 
 This project is licensed under the MIT License. See the [LICENSE](https://github.com/dystaSatria/Cloud-System/blob/main/CRUD%20Database%20Projects/Hawu/License) file for details.
 
+## Collaboration
+
+This project was developed in collaboration with kzyavuz. Their contributions and expertise were invaluable in bringing Hawu to life.
+
 ## Contact
 
 For any inquiries or feedback, just contact me at rezadysta@gmail.com
