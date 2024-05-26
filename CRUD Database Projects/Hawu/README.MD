@@ -5,8 +5,8 @@ Hawu is a classical music bank website that implements CRUD (Create, Read, Updat
 ## Overview
 
 ![hhj](https://github.com/dystaSatria/Cloud-System/blob/main/CRUD%20Database%20Projects/Hawu/Hawu%20Home.png)
-![hhj](https://github.com/dystaSatria/FrontendWeb/blob/main/XOXO%20Game/Screenshot%20(944).png)
-![hhj](https://github.com/dystaSatria/FrontendWeb/blob/main/XOXO%20Game/Screenshot%20(944).png)
+![hhj](https://github.com/dystaSatria/Cloud-System/blob/main/CRUD%20Database%20Projects/Hawu/Add%20Music%20Page.png)
+![hhj](https://github.com/dystaSatria/Cloud-System/blob/main/CRUD%20Database%20Projects/Hawu/Edit%20Music%20Page.png)
 
 ## Features
 
