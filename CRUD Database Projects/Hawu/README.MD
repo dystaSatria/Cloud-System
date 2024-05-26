@@ -20,31 +20,34 @@ Hawu is a classical music bank website that implements CRUD (Create, Read, Updat
 
 ## Installation
 
-1. **Clone the Repository:**
+1. **Clone the project with github downloader online**
+   
+
+2. **Run your own local host application**
+   
+
+3. **Set Up Environment Variables at firebase realtime database/rules**
+   
+   ```
+   {
+  "rules": {
+    "musik": {
+      ".indexOn": ["title"],
+      ".read": true,
+      ".write": true
+    }
+
+  }
+}
+   
+   ```
+
+4. **Run the Web at own local server application**
    ```bash
-   git clone https://github.com/your-username/hawu-classical-music-bank.git
-   cd hawu-classical-music-bank
+   localhost/hawu/
    ```
 
-2. **Install Dependencies:**
-   ```bash
-   npm install
-   ```
 
-3. **Set Up Environment Variables:**
-   Create a `.env` file in the root directory and add the following:
-   ```
-   MONGODB_URI=your_mongodb_connection_string
-   PORT=your_preferred_port
-   ```
-
-4. **Run the Application:**
-   ```bash
-   npm start
-   ```
-
-5. **Access the Website:**
-   Open your browser and navigate to `http://localhost:your_preferred_port`.
 
 ## Usage
 
