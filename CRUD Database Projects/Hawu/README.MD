@@ -26,21 +26,8 @@ Hawu is a classical music bank website that implements CRUD (Create, Read, Updat
 2. **Run your own local host application**
    
 
-3. **Set Up Environment Variables at firebase realtime database/rules**
+3. **Set Up Environment Variables at firebase realtime database/[rules]()**
    
-   ```bash
-   {
-  "rules": {
-    "musik": {
-      ".indexOn": ["title"],
-      ".read": true,
-      ".write": true
-    }
-
-  }
-   }
-   ```
-
 
 4. **Run the Web at own local server application**
 
